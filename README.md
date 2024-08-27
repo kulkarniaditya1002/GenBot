@@ -76,6 +76,9 @@ EduBot showcases the power of generative AI in education, blending manual effort
 - **Advanced History-Saving:** Improve history-saving features with categorization and efficient searchability.
 - **Anti-Plagiarism Enhancements:** Advance anti-plagiarism measures to align with evolving academic standards.
 
+## Trained Model: 
+The model files for running this application are uploaded here: [kulkarniaditya1002/ENG_Grammer_QA](https://huggingface.co/kulkarniaditya1002/ENG_Grammer_QA)
+
 ## Steps to Download, Pull, and Run the Code
    ```bash
    git clone https://github.com/GenBot/EduBot.git
